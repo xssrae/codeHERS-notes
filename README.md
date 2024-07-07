@@ -1,4 +1,4 @@
-![]()
+![girl]https://github.com/xssrae/CodeHERS_Notes/tree/main/img)
 
 This repository contains my studies, notes, and lab solutions from the [CodeHERS - Unraveling Reverse Engineering](https://www.mentebinaria.com.br/cursos/codehers-desvendando-a-engenharia-reversa-r17/) course by [Mente Binária](https://www.mentebinaria.com.br/).
 
