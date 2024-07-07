@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "8ac260f13253c19e",
+    "type": "split",
+    "children": [
+      {
+        "id": "686f1ee69b5aa464",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f3906daa668f9c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "38123165f7a0f78d",
+    "type": "split",
+    "children": [
+      {
+        "id": "18266b6ae9d82b3f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9008c65120f7059c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "566026e59d32f726",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a5b1484361412c8e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "5290398bfcfc7952",
+    "type": "split",
+    "children": [
+      {
+        "id": "c6ec50d4d5b829f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "550a2dab511dfbce",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "507bbfd66440a214",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "31a1613edef7dafe",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "352a65bc0d960632",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "9f3906daa668f9c2",
+  "lastOpenFiles": [
+    "img/7ba67112-c2e4-4525-90dc-7e2dedc5bc75.jpeg",
+    "README.md",
+    "img/girl.jpeg",
+    "img/_ef12d216-91aa-4b8f-9d17-be4e294db4cd.jpeg",
+    "img/_32b549af-07a9-464d-8640-6c4d33e706ff.jpeg",
+    "img/_25ac7667-48de-4801-85a6-f4e5af1e7975.jpeg",
+    "img/_ec5770e2-56c6-486a-8a41-59c1545bcb85.jpeg",
+    "img",
+    "Aula 2/Dia 2.pdf",
+    "Aula 2/Labs.md",
+    "Aula 1/Dia 1.pdf",
+    "Aula 2/CodeHERS-Dia2.pdf.crdownload",
+    "Aula 1/Labs.md",
+    "Aula 2",
+    "Aula 1/Sem título"
+  ]
+}

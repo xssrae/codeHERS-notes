@@ -1,0 +1,20 @@
+{
+  "obsidian-joval-theme@@switch-lcol": "col-mod-d",
+  "obsidian-joval-theme@@show-ui-btns": true,
+  "obsidian-joval-theme@@show-nav-btns": true,
+  "obsidian-joval-theme@@show-status-bar": false,
+  "obsidian-joval-theme@@show-tab-name": false,
+  "obsidian-joval-theme@@show-strikeout": false,
+  "obsidian-joval-theme@@show-ls-marker": false,
+  "obsidian-joval-theme@@edgy-tables": false,
+  "obsidian-joval-theme@@show-tooltips": true,
+  "obsidian-joval-theme@@show-canvas-nl": false,
+  "obsidian-joval-theme@@show-graph-btns": false,
+  "obsidian-joval-theme@@hide-cp-btn": false,
+  "obsidian-joval-theme@@grid-mobile-tb": false,
+  "obsidian-joval-theme@@show-canvas-ui": true,
+  "encore-settings@@theme-dark": "encore-theme-dark-flexoki",
+  "encore-settings@@theme-light": "encore-theme-light",
+  "encore-settings@@colors": "encore-colors-colorful",
+  "encore-settings@@encore-translucency": true
+}
