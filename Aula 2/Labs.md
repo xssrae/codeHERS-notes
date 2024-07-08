@@ -50,7 +50,7 @@ python toup.py
 
 #### **Os esqueletos não estão alterando a string. Você precisa implementar a lógica que vai realizar essa ação.** 
 
-#### **Teste sua função com diferentes strings, de diferentes tamanhos e contendo caracteres alfanuméricos e de pontuação.**
+#### **Teste sua função com diferentes strings, de diferentes tamanhos e contendo caracteres alfanuméricos e de pontuação**
 
 ```python
 def toup(s):
