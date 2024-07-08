@@ -16,5 +16,7 @@
   "encore-settings@@theme-dark": "encore-theme-dark-flexoki",
   "encore-settings@@theme-light": "encore-theme-light",
   "encore-settings@@colors": "encore-colors-colorful",
-  "encore-settings@@encore-translucency": true
+  "encore-settings@@encore-translucency": true,
+  "light-and-bright-theme@@light-theme-settings": "theme-alternate",
+  "light-and-bright-theme@@dark-theme-settings": "dark-theme-alternate"
 }

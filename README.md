@@ -25,3 +25,11 @@ CodeHERS is a social project by Mente Binária with the support of Menina de Cyb
 - Opcodes, Mnemonics, and Instructions
 - Software and Hardware Breakpoints
 - Patching
+
+# Software I've used to take notes:
+- [Obsidian](https://obsidian.md/)
+**Theme**:
+- [Sparkling Night](https://github.com/isax785/obsidian-sparkling-night)
+**Plugins**:
+- [Style Setings](https://github.com/mgmeyers/obsidian-style-settings)
+
