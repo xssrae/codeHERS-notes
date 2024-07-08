@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aula 2/Labs.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "5290398bfcfc7952",
@@ -96,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aula 2/Labs.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aula 2/Labs.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aula 2/Labs.md"
+                "file": "README.md"
               }
             }
           }
@@ -159,9 +158,9 @@
   },
   "active": "9f3906daa668f9c2",
   "lastOpenFiles": [
+    "Aula 2/Labs.md",
     "img/Pasted image 20240708205155.png",
     "Aula 2/Dia 2.pdf",
-    "Aula 2/Labs.md",
     "Pasted image 20240708205155.png",
     "img/Pasted image 20240708145522.png",
     "Aula 2/toup.c",
@@ -176,7 +175,6 @@
     "img/Pasted image 20240708113836.png",
     "img/Pasted image 20240708120845.png",
     "Pasted image 20240708120816.png",
-    "img/Pasted image 20240708115723.png",
     "img",
     "Aula 2/CodeHERS-Dia2.pdf.crdownload",
     "Aula 2",

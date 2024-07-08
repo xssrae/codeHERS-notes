@@ -34,5 +34,4 @@ CodeHERS is a social project by Mente Binária with the support of Menina de Cyb
 **Plugins**:
 - [Style Setings](https://github.com/mgmeyers/obsidian-style-settings)
 
-=======
->>>>>>> ae3cc360c405d0c9b4d4a575afdea46fe16609a2
+![]()
