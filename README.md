@@ -1,4 +1,4 @@
-![]()
+![girl](https://github.com/xssrae/CodeHERS_Notes/blob/main/img/girl.jpeg)
 
 This repository contains my studies, notes, and lab solutions from the [CodeHERS - Unraveling Reverse Engineering](https://www.mentebinaria.com.br/cursos/codehers-desvendando-a-engenharia-reversa-r17/) course by [Mente Binária](https://www.mentebinaria.com.br/).
 
@@ -25,6 +25,7 @@ CodeHERS is a social project by Mente Binária with the support of Menina de Cyb
 - Opcodes, Mnemonics, and Instructions
 - Software and Hardware Breakpoints
 - Patching
+<<<<<<< HEAD
 
 # Software I've used to take notes:
 - [Obsidian](https://obsidian.md/)
@@ -33,3 +34,5 @@ CodeHERS is a social project by Mente Binária with the support of Menina de Cyb
 **Plugins**:
 - [Style Setings](https://github.com/mgmeyers/obsidian-style-settings)
 
+=======
+>>>>>>> ae3cc360c405d0c9b4d4a575afdea46fe16609a2
