@@ -29,8 +29,10 @@ CodeHERS is a social project by [Mente Binária](https://www.mentebinaria.com.br
 
 # Software I've used to take notes:
 - [Obsidian](https://obsidian.md/)
+
 **Theme**:
 - [Sparkling Night](https://github.com/isax785/obsidian-sparkling-night)
+
 **Plugins**:
 - [Style Setings](https://github.com/mgmeyers/obsidian-style-settings)
 
