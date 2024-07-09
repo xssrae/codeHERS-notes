@@ -1,6 +1,6 @@
 ![girl](https://github.com/xssrae/CodeHERS_Notes/blob/main/img/girl.jpeg)
 
-This repository contains my studies, notes, and lab solutions from the [CodeHERS - Unraveling Reverse Engineering](https://www.mentebinaria.com.br/cursos/codehers-desvendando-a-engenharia-reversa-r17/) course by [Mente Binária](https://www.mentebinaria.com.br/).
+This repository contains my studies, notes, and lab solutions from the [CodeHERS - Desvendando a Engenharia Reversa](https://www.mentebinaria.com.br/cursos/codehers-desvendando-a-engenharia-reversa-r17/) course by [Mente Binária](https://www.mentebinaria.com.br/).
 
 CodeHERS is a social project by Mente Binária with the support of Menina de Cybersec. It is a free reverse engineering training **exclusively designed for women**.
 
