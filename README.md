@@ -1,4 +1,4 @@
-![girl](https://github.com/xssrae/CodeHERS_Notes/blob/main/img/girl.jpeg)
+![DesvendandoAEngReversa_Futaba](https://github.com/xssrae/CodeHERS_Notes/blob/main/img/Desvendando%20a%20Engenharia%20Reversa.png)
 
 This repository contains my studies, notes, and lab solutions from the [CodeHERS - Desvendando a Engenharia Reversa](https://www.mentebinaria.com.br/cursos/codehers-desvendando-a-engenharia-reversa-r17/) course by [Mente Binária](https://www.mentebinaria.com.br/).
 
