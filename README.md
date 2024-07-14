@@ -27,13 +27,13 @@ CodeHERS is a social project by [Mente Binária](https://www.mentebinaria.com.br
 - Patching
 <<<<<<< HEAD
 
-# Software I've used to take notes:
+# How to visualize the notes:
 
-![obsidian](https://img.shields.io/badge/Obsidian-24273a?logo=obsidian&logoColor=834df4&style=for-the-badge) --> https://obsidian.md/
+I recomend to download a software that allows you to look at Markdown files. The software I use: 
 
+[Obsidian](https://obsidian.md/)
 **Theme**:
 - [Sparkling Night](https://github.com/isax785/obsidian-sparkling-night)
-
 **Plugins**:
 - [Style Setings](https://github.com/mgmeyers/obsidian-style-settings)
 

@@ -4,29 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "686f1ee69b5aa464",
+        "id": "76692cef688abf2c",
         "type": "tabs",
         "children": [
           {
-            "id": "9f3906daa668f9c2",
+            "id": "1973eb1dd7bc93ad",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "207b3aa2f565abf1",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Aula 2/Dia 2.pdf"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -95,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -156,29 +138,31 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "9008c65120f7059c",
+  "active": "1973eb1dd7bc93ad",
   "lastOpenFiles": [
-    "img/Desvendando a Engenharia Reversa.png",
-    "Aula 2/Labs.md",
-    "img/Pasted image 20240708205155.png",
-    "Aula 2/Dia 2.pdf",
-    "Pasted image 20240708205155.png",
-    "img/Pasted image 20240708145522.png",
-    "Aula 2/toup.c",
-    "Pasted image 20240708145522.png",
-    "Aula 2/toup.py",
-    "Aula 1/Labs.md",
-    "Aula 1/Dia 1.pdf",
+    "Aula 3/Labs 6.md",
+    "Aula 3/Dia 3.pdf",
+    "Pasted image 20240714185439.png",
+    "Pasted image 20240714185230.png",
+    "Pasted image 20240714184702.png",
+    "Pasted image 20240714184507.png",
+    "Aula 3/Extras.pdf",
     "README.md",
-    "img/Pasted image 20240708114052.png",
-    "img/Pasted image 20240708115838.png",
-    "img/Pasted image 20240708113926.png",
-    "img/Pasted image 20240708113836.png",
-    "img/Pasted image 20240708120845.png",
-    "Pasted image 20240708120816.png",
-    "img",
-    "Aula 2/CodeHERS-Dia2.pdf.crdownload",
-    "Aula 2",
-    "Aula 1/Sem título"
+    "img/Pasted image 20240714131926.png",
+    "img/Pasted image 20240714131749.png",
+    "img/Pasted image 20240714124442.png",
+    "img/Pasted image 20240714124327.png",
+    "img/Pasted image 20240714123000.png",
+    "Aula 2/Labs 3 4 e 5.md",
+    "Pasted image 20240714131926.png",
+    "Aula 3/date_converter.py",
+    "Aula 1/Labs 1 e 2.md",
+    "Aula 2/Dia 2.pdf",
+    "Aula 4",
+    "Aula 3",
+    "Aula 2/toup.c",
+    "Aula 2/toup.py",
+    "Aula 1/Dia 1.pdf",
+    "img"
   ]
 }
