@@ -11,9 +11,11 @@
             "id": "1973eb1dd7bc93ad",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "img/Pasted image 20240714184507.png"
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "img/Pasted image 20240714184507.png",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "img/Pasted image 20240714184507.png",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "img/Pasted image 20240714184507.png"
+                "file": "README.md"
               }
             }
           }
@@ -144,14 +146,14 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "9008c65120f7059c",
+  "active": "1973eb1dd7bc93ad",
   "lastOpenFiles": [
+    "img/Pasted image 20240714184507.png",
     "Aula 3/Dia 3.pdf",
     "Aula 3/Labs 6.md",
     "img/Pasted image 20240714185439.png",
     "img/Pasted image 20240714185230.png",
     "img/Pasted image 20240714184702.png",
-    "img/Pasted image 20240714184507.png",
     "Aula 3/Extras.pdf",
     "README.md",
     "img/Pasted image 20240714131926.png",

@@ -25,15 +25,9 @@ CodeHERS is a social project by [Mente Binária](https://www.mentebinaria.com.br
 - Opcodes, Mnemonics, and Instructions
 - Software and Hardware Breakpoints
 - Patching
-<<<<<<< HEAD
-
 # How to visualize the notes:
 
-<<<<<<< HEAD
 I recomend to download a software that allows you to look at Markdown files. The software I use: 
-=======
-[Obsidian](https://obsidian.md/)
->>>>>>> dd994a28be5c6c13f379414148108277455cd4f8
 
 [Obsidian](https://obsidian.md/)
 **Theme**:
